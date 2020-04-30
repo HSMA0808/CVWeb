@@ -1,0 +1,129 @@
+.banners
+{
+  height: 530px;
+  width: 0 auto;
+color:black;
+}
+.banner
+{
+  height: 530px;
+  width: 0 auto;
+color:white;
+background: black;
+}
+#seccion
+{
+  height: 250px;
+  width: 0 auto;
+background: blue;
+}
+.espacio-interior-img
+{
+  padding:5px;
+}
+.espacio-interior-text
+{
+  padding:10px;
+}
+.cuadros
+{
+  height: 345px;
+}
+.cuadros-img
+{
+  height: 350px;
+}
+.cuadros-small
+{
+  height: 358px;
+}
+.bg-dar
+{
+  background: black;
+}
+.text-white
+{
+  color: black;
+}
+.espacio-sup
+{
+  height:25px;
+}
+footer
+{
+
+}
+.img-circle
+{
+border-radius: 49%;
+height: 100%;
+width: 24%;
+}
+.item-tecnico
+{
+  border: 1px solid gray;
+  border-radius: 7px;
+  height: 400px;
+  background-color: white;
+}
+#Descripcion
+{
+  height: 250px;
+}
+.slider-tec
+{
+  height: 660px;
+}
+#img-dp
+{
+  background: url(Imagenes/imagenes_ai/dp.jpg) no-repeat;
+  background-size: 100%;
+  background-attachment: scroll;
+}
+#img-obj
+{
+  background: url(Imagenes/imagenes_ai/obj.jpg) no-repeat;
+  background-size: 100%;
+  background-attachment: scroll;
+}
+#img-formacion
+{
+  background: url(Imagenes/academia2e.jpg) no-repeat;
+  background-size: 100%;
+  background-attachment: scroll;
+}
+#img-otros
+{
+  background: url(Imagenes/otros.jpg) no-repeat;
+  background-size: 100%;
+  background-attachment: scroll;
+}
+.redondeado
+{
+  border: 1px solid white;
+  border-radius: 4px;
+}
+body
+{
+  background-color:white;
+}
+.separador
+{
+  height: 150px;
+  background: black;
+  color: white;
+}
+.lblwhite
+{
+  color: white;
+}
+#img-tec
+{
+  height: 185px;
+  background-attachment: scroll;
+}
+header
+{
+  background: black;
+  color: white;
+}
